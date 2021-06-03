@@ -1,0 +1,1 @@
+global.nivel = 2;

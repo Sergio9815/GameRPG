@@ -1,0 +1,1 @@
+audio_play_sound(sound_Herido, 1, false);

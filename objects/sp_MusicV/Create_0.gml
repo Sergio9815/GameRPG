@@ -1,0 +1,1 @@
+audio_play_sound(sound_Vida, 1, false);
